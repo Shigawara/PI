@@ -1,0 +1,858 @@
+[33mcommit 308ee237ba763e678576c5f38c1c793247e6777f[m[33m ([m[1;36mHEAD -> [m[1;32mtest[m[33m, [m[1;31morigin/test[m[33m)[m
+Author: Shigawara <80489689+Shigawara@users.noreply.github.com>
+Date:   Thu Mar 11 19:33:12 2021 -0300
+
+    Change r
+
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 3320640..b46b4f8 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -19,7 +19,7 @@[m
+             <h3>Multímetro</h3></a></div>[m
+ [m
+         <div class="item item-4"><a href="terrometro.html"><img src="/assets/terrometro.png" alt="imagem terrometro">[m
+[31m-            <h3>Terômetro</h3></a></div>[m
+[32m+[m[32m            <h3>Terrômetro</h3></a></div>[m
+ [m
+         <div class="item item-4"><a href="ohmimetro.html"> <img src="/assets/ohmimetro.png" alt="imagem ohmimetro">[m
+             <h3>Ohmímetro</h3></a></div>[m
+[36m@@ -44,4 +44,4 @@[m
+         [m
+     </div>[m
+ </body>[m
+[31m-</html>[m
+\ No newline at end of file[m
+[32m+[m[32m</html>[m
+
+[33mcommit 5811c5531c7c521fa6147c1f9ed72d64794e3406[m
+Author: Shiga <davisilvino456@gmail.com>
+Date:   Thu Mar 11 19:08:53 2021 -0300
+
+    test comming ;p
+
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 71f7b33..3320640 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -19,7 +19,7 @@[m
+             <h3>Multímetro</h3></a></div>[m
+ [m
+         <div class="item item-4"><a href="terrometro.html"><img src="/assets/terrometro.png" alt="imagem terrometro">[m
+[31m-            <h3>Terrômetro</h3></a></div>[m
+[32m+[m[32m            <h3>Terômetro</h3></a></div>[m
+ [m
+         <div class="item item-4"><a href="ohmimetro.html"> <img src="/assets/ohmimetro.png" alt="imagem ohmimetro">[m
+             <h3>Ohmímetro</h3></a></div>[m
+
+[33mcommit 1878ef71b52007b833a3ecac8c861f6d34e53d56[m
+Author: Shiga <davisilvino456@gmail.com>
+Date:   Thu Mar 11 19:02:53 2021 -0300
+
+    initial commit
+
+[1mdiff --git a/Fonts/Poppins-Black.ttf b/Fonts/Poppins-Black.ttf[m
+[1mnew file mode 100644[m
+[1mindex 0000000..a9520b7[m
+Binary files /dev/null and b/Fonts/Poppins-Black.ttf differ
+[1mdiff --git a/Fonts/Poppins-BlackItalic.ttf b/Fonts/Poppins-BlackItalic.ttf[m
+[1mnew file mode 100644[m
+[1mindex 0000000..ebfdd70[m
+Binary files /dev/null and b/Fonts/Poppins-BlackItalic.ttf differ
+[1mdiff --git a/Fonts/Poppins-Bold.ttf b/Fonts/Poppins-Bold.ttf[m
+[1mnew file mode 100644[m
+[1mindex 0000000..b94d47f[m
+Binary files /dev/null and b/Fonts/Poppins-Bold.ttf differ
+[1mdiff --git a/Fonts/Poppins-BoldItalic.ttf b/Fonts/Poppins-BoldItalic.ttf[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e2e6445[m
+Binary files /dev/null and b/Fonts/Poppins-BoldItalic.ttf differ
+[1mdiff --git a/Fonts/Poppins-ExtraBold.ttf b/Fonts/Poppins-ExtraBold.ttf[m
+[1mnew file mode 100644[m
+[1mindex 0000000..8f008c3[m
+Binary files /dev/null and b/Fonts/Poppins-ExtraBold.ttf differ
+[1mdiff --git a/Fonts/Poppins-ExtraBoldItalic.ttf b/Fonts/Poppins-ExtraBoldItalic.ttf[m
+[1mnew file mode 100644[m
+[1mindex 0000000..b2a9bf5[m
+Binary files /dev/null and b/Fonts/Poppins-ExtraBoldItalic.ttf differ
+[1mdiff --git a/Fonts/Poppins-ExtraLight.ttf b/Fonts/Poppins-ExtraLight.ttf[m
+[1mnew file mode 100644[m
+[1mindex 0000000..ee62382[m
+Binary files /dev/null and b/Fonts/Poppins-ExtraLight.ttf differ
+[1mdiff --git a/Fonts/Poppins-ExtraLightItalic.ttf b/Fonts/Poppins-ExtraLightItalic.ttf[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e392492[m
+Binary files /dev/null and b/Fonts/Poppins-ExtraLightItalic.ttf differ
+[1mdiff --git a/Fonts/Poppins-Italic.ttf b/Fonts/Poppins-Italic.ttf[m
+[1mnew file mode 100644[m
+[1mindex 0000000..4620399[m
+Binary files /dev/null and b/Fonts/Poppins-Italic.ttf differ
+[1mdiff --git a/Fonts/Poppins-Light.ttf b/Fonts/Poppins-Light.ttf[m
+[1mnew file mode 100644[m
+[1mindex 0000000..2ab0221[m
+Binary files /dev/null and b/Fonts/Poppins-Light.ttf differ
+[1mdiff --git a/Fonts/Poppins-LightItalic.ttf b/Fonts/Poppins-LightItalic.ttf[m
+[1mnew file mode 100644[m
+[1mindex 0000000..6f9279d[m
+Binary files /dev/null and b/Fonts/Poppins-LightItalic.ttf differ
+[1mdiff --git a/Fonts/Poppins-Medium.ttf b/Fonts/Poppins-Medium.ttf[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e90e87e[m
+Binary files /dev/null and b/Fonts/Poppins-Medium.ttf differ
+[1mdiff --git a/Fonts/Poppins-MediumItalic.ttf b/Fonts/Poppins-MediumItalic.ttf[m
+[1mnew file mode 100644[m
+[1mindex 0000000..d8a251c[m
+Binary files /dev/null and b/Fonts/Poppins-MediumItalic.ttf differ
+[1mdiff --git a/Fonts/Poppins-Regular.ttf b/Fonts/Poppins-Regular.ttf[m
+[1mnew file mode 100644[m
+[1mindex 0000000..be06e7f[m
+Binary files /dev/null and b/Fonts/Poppins-Regular.ttf differ
+[1mdiff --git a/Fonts/Poppins-SemiBold.ttf b/Fonts/Poppins-SemiBold.ttf[m
+[1mnew file mode 100644[m
+[1mindex 0000000..dabf7c2[m
+Binary files /dev/null and b/Fonts/Poppins-SemiBold.ttf differ
+[1mdiff --git a/Fonts/Poppins-SemiBoldItalic.ttf b/Fonts/Poppins-SemiBoldItalic.ttf[m
+[1mnew file mode 100644[m
+[1mindex 0000000..29d5f74[m
+Binary files /dev/null and b/Fonts/Poppins-SemiBoldItalic.ttf differ
+[1mdiff --git a/Fonts/Poppins-Thin.ttf b/Fonts/Poppins-Thin.ttf[m
+[1mnew file mode 100644[m
+[1mindex 0000000..f5c0fdd[m
+Binary files /dev/null and b/Fonts/Poppins-Thin.ttf differ
+[1mdiff --git a/Fonts/Poppins-ThinItalic.ttf b/Fonts/Poppins-ThinItalic.ttf[m
+[1mnew file mode 100644[m
+[1mindex 0000000..b910089[m
+Binary files /dev/null and b/Fonts/Poppins-ThinItalic.ttf differ
+[1mdiff --git a/LICENSE b/LICENSE[m
+[1mnew file mode 100644[m
+[1mindex 0000000..0bdb9e2[m
+[1m--- /dev/null[m
+[1m+++ b/LICENSE[m
+[36m@@ -0,0 +1,21 @@[m
+[32m+[m[32mMIT License[m
+[32m+[m
+[32m+[m[32mCopyright (c) 2021 AnderRedna[m
+[32m+[m
+[32m+[m[32mPermission is hereby granted, free of charge, to any person obtaining a copy[m
+[32m+[m[32mof this software and associated documentation files (the "Software"), to deal[m
+[32m+[m[32min the Software without restriction, including without limitation the rights[m
+[32m+[m[32mto use, copy, modify, merge, publish, distribute, sublicense, and/or sell[m
+[32m+[m[32mcopies of the Software, and to permit persons to whom the Software is[m
+[32m+[m[32mfurnished to do so, subject to the following conditions:[m
+[32m+[m
+[32m+[m[32mThe above copyright notice and this permission notice shall be included in all[m
+[32m+[m[32mcopies or substantial portions of the Software.[m
+[32m+[m
+[32m+[m[32mTHE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR[m
+[32m+[m[32mIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,[m
+[32m+[m[32mFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE[m
+[32m+[m[32mAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER[m
+[32m+[m[32mLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,[m
+[32m+[m[32mOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE[m
+[32m+[m[32mSOFTWARE.[m
+[1mdiff --git a/README.md b/README.md[m
+[1mnew file mode 100644[m
+[1mindex 0000000..968e7a6[m
+[1m--- /dev/null[m
+[1m+++ b/README.md[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32m# Electrical_Assistant[m
+\ No newline at end of file[m
+[1mdiff --git a/amperimetro.html b/amperimetro.html[m
+[1mnew file mode 100644[m
+[1mindex 0000000..6f5829e[m
+[1m--- /dev/null[m
+[1m+++ b/amperimetro.html[m
+[36m@@ -0,0 +1,36 @@[m
+[32m+[m[32m<!DOCTYPE html>[m
+[32m+[m[32m<html lang="pt-br">[m
+[32m+[m[32m<head>[m
+[32m+[m[32m    <link rel="stylesheet" href="stylegeral.css">[m
+[32m+[m[32m    <meta charset="UTF-8">[m
+[32m+[m[32m    <meta http-equiv="X-UA-Compatible" content="IE=edge">[m
+[32m+[m[32m    <meta name="viewport" content="width=device-width, initial-scale=1.0">[m
+[32m+[m[32m    <title>amperimetro</title>[m
+[32m+[m[32m</head>[m
+[32m+[m[32m<body>[m
+[32m+[m[32m   <div class="grid">[m
+[32m+[m[32m       <div class="item item-1"><img style="margin-top: 40px" src="/assets/amperimetro.png" alt="">[m
+[32m+[m[32m       <h1 style="margin-top: 5px">O que é um amperímetro?</h1>[m
+[32m+[m[32m       <p>Um amperímetro é um instrumento usado para medir em formato de grandeza a intensidade da corrente que passa pela seção transversal de um condutor. A unidade utilizada é o ampere, em homenagem ao físico e matemático francês André-Marie Ampère.[m
+[32m+[m[32m    </p></div>[m
+[32m+[m[41m        [m
+[32m+[m[32m       <div class="item item-2"> <h1>O que um amperímetro faz?</h1>[m
+[32m+[m[32m        <p>O amperímetro pode medir corrente contínua ou corrente alternada. Dependendo da qualidade do equipamento, ele pode ter múltiplas escalas, que podem ser ajustadas para obter o máximo valor de precisão possível.[m
+[32m+[m[32m        </p></div>[m
+[32m+[m[41m      [m
+[32m+[m[41m       [m
+[32m+[m[32m        <div class="item item-3"><h1>Tipos de amperímetro </h1>[m
+[32m+[m[32m        <p>Existem dois tipos de amperímetro, os de medição direta e os de medição indireta. Os amperímetros de medição direta são aqueles que precisam interromper o circuito para serem conectados em série com eles, o que não é viável em alguns casos. Os amperímetros de medição indireta não precisam interromper o circuito, o alicate amperímetro é um exemplo desse tipo.[m
+[32m+[m[32m        </p>[m
+[32m+[m[32m        <img style="margin-top: 40px" src="/assets/amperimetro2.png" alt=""></div>[m
+[32m+[m[41m        [m
+[32m+[m[32m        <div class="item item-4"><h1 style="margin-top: 5px">Como usar um amperímetro?        </h1>[m
+[32m+[m[32m        <p>No caso de um amperímetro direto se conecta as pontas de prova nos polos do circuito desligado, já o amperímetro indireto se conecta as pinças entre o cabo que passa a corrente sem a necessidade de interromper o circuito.[m
+[32m+[m[32m</p>[m
+[32m+[m[32m</div>[m
+[32m+[m[41m        [m
+[32m+[m[32m    </div>[m
+[32m+[m[41m    [m
+[32m+[m[41m    [m
+[32m+[m[32m</body>[m
+[32m+[m[32m</html>[m
+\ No newline at end of file[m
+[1mdiff --git a/analisadordeespectro.html b/analisadordeespectro.html[m
+[1mnew file mode 100644[m
+[1mindex 0000000..57c486e[m
+[1m--- /dev/null[m
+[1m+++ b/analisadordeespectro.html[m
+[36m@@ -0,0 +1,33 @@[m
+[32m+[m[32m<!DOCTYPE html>[m
+[32m+[m[32m<html lang="pt-br">[m
+[32m+[m[32m<head>[m
+[32m+[m[32m    <link rel="stylesheet" href="stylegeral.css">[m
+[32m+[m[32m    <meta charset="UTF-8">[m
+[32m+[m[32m    <meta http-equiv="X-UA-Compatible" content="IE=edge">[m
+[32m+[m[32m    <meta name="viewport" content="width=device-width, initial-scale=1.0">[m
+[32m+[m[32m    <title>Analisadordeespectro[m
+[32m+[m[32m    </title>[m
+[32m+[m[32m</head>[m
+[32m+[m[32m<body>[m
+[32m+[m[32m   <div class="grid">[m
+[32m+[m[32m       <div class="item item-1"><img style="margin-top: 40px" src="/assets/analisador-de-espectro.png" alt="">[m
+[32m+[m[32m       <h1 style="margin-top: 5px">O que é um analisador de espectro?</h1>[m
+[32m+[m[32m       <p>Um analisador de espectro é um instrumento eletrônico usado para entender os componentes harmônicos de sinais elétricos. Esses componentes podem ter diferentes frequências e amplitudes e são distribuídos por todo o espectro de frequência.</p></div>[m
+[32m+[m[41m        [m
+[32m+[m[32m       <div class="item item-2"> <h1>O que um analisador de espectro faz?</h1>[m
+[32m+[m[32m        <p>Este tipo de instrumento de teste fornece informações sobre o espectro do sinal. Uma vez que sinais de diferentes frequências podem ser visualizados, o espectro de sinais espúrios e formas de onda complexas atuais podem ser exibidos para investigar se eles estão dentro dos limites exigidos em diferentes frequências.</p></div>[m
+[32m+[m[41m      [m
+[32m+[m[41m       [m
+[32m+[m[32m        <div class="item item-3"><h1>Tipos de analisadores </h1>[m
+[32m+[m[32m        <p> Os analisadores de espectro se diferenciam pela forma como se obtém o espectro de um sinal, existem analisadores que se baseiam em “swept-tuned”, outros em “vector signal analyzer” e alguns em “real-time spectrum analyzer”.</p>[m
+[32m+[m[32m        <img style="margin-top: 40px" src="/assets/analisador-de-espectro2.png" alt=""></div>[m
+[32m+[m[41m        [m
+[32m+[m[32m        <div class="item item-4"><h1 style="margin-top: 5px">Como se usa um analisador de espectro</h1>[m
+[32m+[m[32m        <p>Este aparelho não é de uso comum portanto seu uso é estritamente profissional caso queira saber mais procure um técnico especializado.</p>[m
+[32m+[m[32m</div>[m
+[32m+[m[41m        [m
+[32m+[m[32m    </div>[m
+[32m+[m[41m    [m
+[32m+[m[41m    [m
+[32m+[m[32m</body>[m
+[32m+[m[32m</html>[m
+\ No newline at end of file[m
+[1mdiff --git a/assets/MainImagens/amperimetro.jpg.png b/assets/MainImagens/amperimetro.jpg.png[m
+[1mnew file mode 100644[m
+[1mindex 0000000..9a20384[m
+Binary files /dev/null and b/assets/MainImagens/amperimetro.jpg.png differ
+[1mdiff --git a/assets/MainImagens/analisador de espectro.png b/assets/MainImagens/analisador de espectro.png[m
+[1mnew file mode 100644[m
+[1mindex 0000000..0bdfa90[m
+Binary files /dev/null and b/assets/MainImagens/analisador de espectro.png differ
+[1mdiff --git a/assets/MainImagens/multimetro.png b/assets/MainImagens/multimetro.png[m
+[1mnew file mode 100644[m
+[1mindex 0000000..d4d61c8[m
+Binary files /dev/null and b/assets/MainImagens/multimetro.png differ
+[1mdiff --git a/assets/MainImagens/ohmimetro.png b/assets/MainImagens/ohmimetro.png[m
+[1mnew file mode 100644[m
+[1mindex 0000000..eeff789[m
+Binary files /dev/null and b/assets/MainImagens/ohmimetro.png differ
+[1mdiff --git a/assets/MainImagens/osciloscopio.png b/assets/MainImagens/osciloscopio.png[m
+[1mnew file mode 100644[m
+[1mindex 0000000..93177c8[m
+Binary files /dev/null and b/assets/MainImagens/osciloscopio.png differ
+[1mdiff --git a/assets/MainImagens/terrometro.png b/assets/MainImagens/terrometro.png[m
+[1mnew file mode 100644[m
+[1mindex 0000000..4ca5435[m
+Binary files /dev/null and b/assets/MainImagens/terrometro.png differ
+[1mdiff --git a/assets/MainImagens/voltimetro.png b/assets/MainImagens/voltimetro.png[m
+[1mnew file mode 100644[m
+[1mindex 0000000..0578a0e[m
+Binary files /dev/null and b/assets/MainImagens/voltimetro.png differ
+[1mdiff --git a/assets/amperimetro.png b/assets/amperimetro.png[m
+[1mnew file mode 100644[m
+[1mindex 0000000..c78bf30[m
+Binary files /dev/null and b/assets/amperimetro.png differ
+[1mdiff --git a/assets/amperimetro2.png b/assets/amperimetro2.png[m
+[1mnew file mode 100644[m
+[1mindex 0000000..48bbc27[m
+Binary files /dev/null and b/assets/amperimetro2.png differ
+[1mdiff --git a/assets/analisador de espectro.png b/assets/analisador de espectro.png[m
+[1mnew file mode 100644[m
+[1mindex 0000000..61a8884[m
+Binary files /dev/null and b/assets/analisador de espectro.png differ
+[1mdiff --git a/assets/analisador-de-espectro.png b/assets/analisador-de-espectro.png[m
+[1mnew file mode 100644[m
+[1mindex 0000000..247a84a[m
+Binary files /dev/null and b/assets/analisador-de-espectro.png differ
+[1mdiff --git a/assets/analisador-de-espectro2.png b/assets/analisador-de-espectro2.png[m
+[1mnew file mode 100644[m
+[1mindex 0000000..402e3f7[m
+Binary files /dev/null and b/assets/analisador-de-espectro2.png differ
+[1mdiff --git a/assets/capacimetro.png b/assets/capacimetro.png[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e5a0f40[m
+Binary files /dev/null and b/assets/capacimetro.png differ
+[1mdiff --git a/assets/frequencimetro.png b/assets/frequencimetro.png[m
+[1mnew file mode 100644[m
+[1mindex 0000000..3a94b5a[m
+Binary files /dev/null and b/assets/frequencimetro.png differ
+[1mdiff --git a/assets/frequencimetro2.png b/assets/frequencimetro2.png[m
+[1mnew file mode 100644[m
+[1mindex 0000000..c633857[m
+Binary files /dev/null and b/assets/frequencimetro2.png differ
+[1mdiff --git a/assets/indutimetro.png b/assets/indutimetro.png[m
+[1mnew file mode 100644[m
+[1mindex 0000000..5077c92[m
+Binary files /dev/null and b/assets/indutimetro.png differ
+[1mdiff --git a/assets/multimetro.png b/assets/multimetro.png[m
+[1mnew file mode 100644[m
+[1mindex 0000000..adb6625[m
+Binary files /dev/null and b/assets/multimetro.png differ
+[1mdiff --git a/assets/multimetro2.png b/assets/multimetro2.png[m
+[1mnew file mode 100644[m
+[1mindex 0000000..0bb8904[m
+Binary files /dev/null and b/assets/multimetro2.png differ
+[1mdiff --git a/assets/ohmimetro.png b/assets/ohmimetro.png[m
+[1mnew file mode 100644[m
+[1mindex 0000000..daf7d36[m
+Binary files /dev/null and b/assets/ohmimetro.png differ
+[1mdiff --git a/assets/ohmimetro2.png b/assets/ohmimetro2.png[m
+[1mnew file mode 100644[m
+[1mindex 0000000..fc8f84f[m
+Binary files /dev/null and b/assets/ohmimetro2.png differ
+[1mdiff --git a/assets/osciloscopio.png b/assets/osciloscopio.png[m
+[1mnew file mode 100644[m
+[1mindex 0000000..464d8ae[m
+Binary files /dev/null and b/assets/osciloscopio.png differ
+[1mdiff --git a/assets/osciloscopio2.png b/assets/osciloscopio2.png[m
+[1mnew file mode 100644[m
+[1mindex 0000000..9532b65[m
+Binary files /dev/null and b/assets/osciloscopio2.png differ
+[1mdiff --git a/assets/terrometro.png b/assets/terrometro.png[m
+[1mnew file mode 100644[m
+[1mindex 0000000..b4d31a8[m
+Binary files /dev/null and b/assets/terrometro.png differ
+[1mdiff --git a/assets/terrometro2.png b/assets/terrometro2.png[m
+[1mnew file mode 100644[m
+[1mindex 0000000..9f1627e[m
+Binary files /dev/null and b/assets/terrometro2.png differ
+[1mdiff --git a/assets/voltimetro.png b/assets/voltimetro.png[m
+[1mnew file mode 100644[m
+[1mindex 0000000..d11a88e[m
+Binary files /dev/null and b/assets/voltimetro.png differ
+[1mdiff --git a/assets/voltimetro2.png b/assets/voltimetro2.png[m
+[1mnew file mode 100644[m
+[1mindex 0000000..46f9e1a[m
+Binary files /dev/null and b/assets/voltimetro2.png differ
+[1mdiff --git a/assets/watimetro2.png b/assets/watimetro2.png[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e2d2fd1[m
+Binary files /dev/null and b/assets/watimetro2.png differ
+[1mdiff --git a/assets/wattmetro.png b/assets/wattmetro.png[m
+[1mnew file mode 100644[m
+[1mindex 0000000..42b8110[m
+Binary files /dev/null and b/assets/wattmetro.png differ
+[1mdiff --git a/capacimetro.html b/capacimetro.html[m
+[1mnew file mode 100644[m
+[1mindex 0000000..72b75b6[m
+[1m--- /dev/null[m
+[1m+++ b/capacimetro.html[m
+[36m@@ -0,0 +1,33 @@[m
+[32m+[m[32m<!DOCTYPE html>[m
+[32m+[m[32m<html lang="pt-br">[m
+[32m+[m[32m<head>[m
+[32m+[m[32m    <link rel="stylesheet" href="stylegeral.css">[m
+[32m+[m[32m    <meta charset="UTF-8">[m
+[32m+[m[32m    <meta http-equiv="X-UA-Compatible" content="IE=edge">[m
+[32m+[m[32m    <meta name="viewport" content="width=device-width, initial-scale=1.0">[m
+[32m+[m[32m    <title>capacimetro[m
+[32m+[m[32m    </title>[m
+[32m+[m[32m</head>[m
+[32m+[m[32m<body>[m
+[32m+[m[32m   <div class="grid">[m
+[32m+[m[32m       <div class="item item-1"><img style="margin-top: 40px" src="/assets/capacimetro.png" alt="">[m
+[32m+[m[32m       <h1 style="margin-top: 5px">O que é um capacímetro?</h1>[m
+[32m+[m[32m       <p>Dispositivo utilizado para medir a capacitância, grandeza utilizada para representar a quantidade de energia em componentes elétricos possuindo sua medida em Farad (F).</p></div>[m
+[32m+[m[41m        [m
+[32m+[m[32m       <div class="item item-2"> <h1>O que faz um capacímetro?</h1>[m
+[32m+[m[32m        <p>Instrumento que utiliza um sistema de losango, também conhecido como ponte, para comparar a valores correspondentes a componentes como resistores indutores e capacitores. Os circuitos medidos não devem possuir uma diferença de potencial, ou seja, deve possuir a ausência de tensão.</p></div>[m
+[32m+[m[41m      [m
+[32m+[m[41m       [m
+[32m+[m[32m        <div class="item item-3"><h1>Como se utiliza um capacímetro?</h1>[m
+[32m+[m[32m        <p>Na medição em um capacímetro é tomado um componente que se deseja medir, escolhendo o valor mais próximo dele e em seus terminais, sobrepondo as pontas de prova mostrando assim o valor tanto em um display quanto em um ponteiro de forma analógica.</p>[m
+[32m+[m[41m        [m
+[32m+[m[41m        [m
+[32m+[m[32m        <div class="item item-4"><h1 style="margin-top: 5px">Tipos de capacímetro</h1>[m
+[32m+[m[32m        <p>- Capacímetro digital</p>[m
+[32m+[m[32m</div>[m
+[32m+[m[41m        [m
+[32m+[m[32m    </div>[m
+[32m+[m[41m    [m
+[32m+[m[41m    [m
+[32m+[m[32m</body>[m
+[32m+[m[32m</html>[m
+\ No newline at end of file[m
+[1mdiff --git a/frequencimetro.html b/frequencimetro.html[m
+[1mnew file mode 100644[m
+[1mindex 0000000..8a255fa[m
+[1m--- /dev/null[m
+[1m+++ b/frequencimetro.html[m
+[36m@@ -0,0 +1,33 @@[m
+[32m+[m[32m<!DOCTYPE html>[m
+[32m+[m[32m<html lang="pt-br">[m
+[32m+[m[32m<head>[m
+[32m+[m[32m    <link rel="stylesheet" href="stylegeral.css">[m
+[32m+[m[32m    <meta charset="UTF-8">[m
+[32m+[m[32m    <meta http-equiv="X-UA-Compatible" content="IE=edge">[m
+[32m+[m[32m    <meta name="viewport" content="width=device-width, initial-scale=1.0">[m
+[32m+[m[32m    <title>Frequencímetro</title>[m
+[32m+[m[32m</head>[m
+[32m+[m[32m<body>[m
+[32m+[m[32m   <div class="grid">[m
+[32m+[m[32m       <div class="item item-1"><img style="margin-top: 40px" src="/assets/frequencimetro.png" alt="">[m
+[32m+[m[32m       <h1 style="margin-top: 5px">O que é frequencímetro?</h1>[m
+[32m+[m[32m       <p>Um contador de frequência é um instrumento de teste usado para medir a frequência de um sinal com muita precisão em hertz (Hz).</p></div>[m
+[32m+[m[41m        [m
+[32m+[m[32m       <div class="item item-2"> <h1>O que faz um frequencímetro?</h1>[m
+[32m+[m[32m        <p>Com um cristal de quartzo e um circuito que interpreta a base de dados ofertada pelas alterações na pedra, o frequencímetro interpretar os gestos, mostrando no display o valor da frequência que corresponde ao número de vezes que um sinal passa em um determinado espaço de tensão de acordo com o tempo.</p></div>[m
+[32m+[m[41m      [m
+[32m+[m[41m       [m
+[32m+[m[32m        <div class="item item-3"><h1>Como se utiliza o frequencímetro?</h1>[m
+[32m+[m[32m        <p>Tem seu uso voltado a englobar o circuito com suas pontas de prova de maneira parecida com a de um medidor de tensão</p>[m
+[32m+[m[32m        <img style="margin-top: 40px" src="/assets/frequencimetro2.png" alt=""></div>[m
+[32m+[m[41m        [m
+[32m+[m[32m        <div class="item item-4"><h1 style="margin-top: 5px">Tipos de frequencímetro?</h1>[m
+[32m+[m[32m        <p>- Frequencímetro Analógico, Frequencímetro Digital.[m
+[32m+[m[32m            </p>[m
+[32m+[m[32m</div>[m
+[32m+[m[41m        [m
+[32m+[m[32m    </div>[m
+[32m+[m[41m    [m
+[32m+[m[41m    [m
+[32m+[m[32m</body>[m
+[32m+[m[32m</html>[m
+\ No newline at end of file[m
+[1mdiff --git a/index.html b/index.html[m
+[1mnew file mode 100644[m
+[1mindex 0000000..71f7b33[m
+[1m--- /dev/null[m
+[1m+++ b/index.html[m
+[36m@@ -0,0 +1,47 @@[m
+[32m+[m[32m<!DOCTYPE html>[m
+[32m+[m[32m<html lang="pt-br">[m
+[32m+[m[32m<head>[m
+[32m+[m[32m    <link rel="stylesheet" href="style.css">[m
+[32m+[m[32m    <meta charset="UTF-8">[m
+[32m+[m[32m    <meta http-equiv="X-UA-Compatible" content="IE=edge">[m
+[32m+[m[32m    <meta name="viewport" content="width=device-width, initial-scale=1.0">[m
+[32m+[m[32m    <title>Aparelhos de medicao</title>[m
+[32m+[m[32m</head>[m
+[32m+[m[32m<body>[m
+[32m+[m[32m    <div class="grid">[m
+[32m+[m[32m        <div class="item item-1"><a href="amperimetro.html"><img src="/assets/amperimetro.png" alt="Imagem amperimetro">[m
+[32m+[m[32m            <h3>Amperímetro</h3></a></div>[m
+[32m+[m
+[32m+[m[32m        <div class="item item-2"><a href="voltimetro.html"><img src="/assets/voltimetro.png" alt="imagem voltimetro">[m
+[32m+[m[32m            <h3>Voltímetro</h3></a></div>[m
+[32m+[m
+[32m+[m[32m       <div  class="item item-3"><a href="multimetro.html"><img style="padding-left: 20px;" src="/assets/multimetro.png" alt="imagem multimetro">[m
+[32m+[m[32m            <h3>Multímetro</h3></a></div>[m
+[32m+[m
+[32m+[m[32m        <div class="item item-4"><a href="terrometro.html"><img src="/assets/terrometro.png" alt="imagem terrometro">[m
+[32m+[m[32m            <h3>Terrômetro</h3></a></div>[m
+[32m+[m
+[32m+[m[32m        <div class="item item-4"><a href="ohmimetro.html"> <img src="/assets/ohmimetro.png" alt="imagem ohmimetro">[m
+[32m+[m[32m            <h3>Ohmímetro</h3></a></div>[m
+[32m+[m
+[32m+[m[32m       <div class="item item-5"><a href="wattimetro.html"><img src="/assets/wattmetro.png" alt="imagem wattimetro">[m
+[32m+[m[32m            <h3>Wattímetro</h3></a></div>[m
+[32m+[m
+[32m+[m[32m        <div style="padding-top: 35px;" class="item item-6"><a href="frequencimetro.html"><img src="/assets/frequencimetro.png" alt="imagem frequencimetro">[m
+[32m+[m[32m            <h3>Frequencímetro</h3>[m
+[32m+[m[32m        </a></div>[m
+[32m+[m
+[32m+[m[32m        <div class="item item-7"><a href="indutimetro.html"> <img src="/assets/indutimetro.png" alt="imagem indutimetro">[m
+[32m+[m[32m            <h3>Indutímetro</h3>[m
+[32m+[m[32m        </a></div>[m
+[32m+[m
+[32m+[m[32m        <div class="item item-8"><a href="analisadordeespectro.html"><img src="/assets/analisador de espectro.png" alt="imagem analisadordeespectro">[m
+[32m+[m[32m            <h3>Analisador de espectro</h3>[m
+[32m+[m[32m        </a></div>[m
+[32m+[m[32m        <div style="padding-top: 35px;" class="item item-9"><a href="osciloscopio.html"><img src="/assets/osciloscopio.png" alt="imagem osciloscopio">[m
+[32m+[m[32m            <h3>Osciloscópio</h3>[m
+[32m+[m[32m        </a></div>[m
+[32m+[m[41m        [m
+[32m+[m[32m    </div>[m
+[32m+[m[32m</body>[m
+[32m+[m[32m</html>[m
+\ No newline at end of file[m
+[1mdiff --git a/indutimetro.html b/indutimetro.html[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e7f85d0[m
+[1m--- /dev/null[m
+[1m+++ b/indutimetro.html[m
+[36m@@ -0,0 +1,32 @@[m
+[32m+[m[32m<!DOCTYPE html>[m
+[32m+[m[32m<html lang="pt-br">[m
+[32m+[m[32m<head>[m
+[32m+[m[32m    <link rel="stylesheet" href="stylegeral.css">[m
+[32m+[m[32m    <meta charset="UTF-8">[m
+[32m+[m[32m    <meta http-equiv="X-UA-Compatible" content="IE=edge">[m
+[32m+[m[32m    <meta name="viewport" content="width=device-width, initial-scale=1.0">[m
+[32m+[m[32m    <title>indutimetro</title>[m
+[32m+[m[32m</head>[m
+[32m+[m[32m<body>[m
+[32m+[m[32m   <div class="grid">[m
+[32m+[m[32m       <div class="item item-1"><img style="margin-top: 40px" src="/assets/indutimetro.png" alt="">[m
+[32m+[m[32m       <h1 style="margin-top: 5px">O que é um indutímetro?</h1>[m
+[32m+[m[32m       <p>É um instrumento de medição elétrica com formato de bobina junto a um núcleo magnético representando na unidade henry(h).</p></div>[m
+[32m+[m[41m        [m
+[32m+[m[32m       <div class="item item-2"> <h1>O que faz um indutímetro?</h1>[m
+[32m+[m[32m        <p>O indutímetro possui a função de medir a indutância de componentes elétricos, possuindo como mais comum a bobina por ter uma quantidade maior da interação entre a corrente e o fluxo magnético.</p></div>[m
+[32m+[m[41m      [m
+[32m+[m[41m       [m
+[32m+[m[32m        <div class="item item-3"><h1>Como funciona um indutímetro?</h1>[m
+[32m+[m[32m        <p>Nele ao escolher até onde se deseja medir são colocadas as pontas de prova nos terminais e assim o componente e medido e mostrado através de um display.</p>[m
+[32m+[m[32m        </div>[m
+[32m+[m[41m        [m
+[32m+[m[32m        <div class="item item-4"><h1 style="margin-top: 5px">Tipos de indutímetro</h1>[m
+[32m+[m[32m        <p>- Indutímetro digital.</p>[m
+[32m+[m[32m</div>[m
+[32m+[m[41m        [m
+[32m+[m[32m    </div>[m
+[32m+[m[41m    [m
+[32m+[m[41m    [m
+[32m+[m[32m</body>[m
+[32m+[m[32m</html>[m
+\ No newline at end of file[m
+[1mdiff --git a/multimetro.html b/multimetro.html[m
+[1mnew file mode 100644[m
+[1mindex 0000000..1ade23d[m
+[1m--- /dev/null[m
+[1m+++ b/multimetro.html[m
+[36m@@ -0,0 +1,32 @@[m
+[32m+[m[32m<!DOCTYPE html>[m
+[32m+[m[32m<html lang="pt-br">[m
+[32m+[m[32m<head>[m
+[32m+[m[32m    <link rel="stylesheet" href="stylegeral.css">[m
+[32m+[m[32m    <meta charset="UTF-8">[m
+[32m+[m[32m    <meta http-equiv="X-UA-Compatible" content="IE=edge">[m
+[32m+[m[32m    <meta name="viewport" content="width=device-width, initial-scale=1.0">[m
+[32m+[m[32m    <title>multimetro</title>[m
+[32m+[m[32m</head>[m
+[32m+[m[32m<body>[m
+[32m+[m[32m   <div class="grid">[m
+[32m+[m[32m       <div class="item item-1"><img style="margin-top: 40px" src="/assets/multimetro.png" alt="">[m
+[32m+[m[32m       <h1 style="margin-top: 5px">O que é um multímetro? </h1>[m
+[32m+[m[32m       <p>Um multímetro ou multímetro é um dispositivo projetado para medir e avaliar grandezas elétricas (tensão, corrente, resistência, etc). Existem modelos com mostrador analógico (ponteiro) e modelos com display digital.</p></div>[m
+[32m+[m[41m        [m
+[32m+[m[32m       <div class="item item-2"> <h1>O que um multímetro faz? </h1>[m
+[32m+[m[32m        <p>Um multímetro serve para medir diferentes tipos de condições e unidades elétricas. A unidade que pode ser medida depende do modelo do multímetro, da qualidade, da fabricação, do tipo e de outros fatores.</p></div>[m
+[32m+[m[41m      [m
+[32m+[m[41m       [m
+[32m+[m[32m        <div class="item item-3"><h1>Tipos de multímetro </h1>[m
+[32m+[m[32m        <p>Existem dois tipos de multímetro, o multímetro analógico e o digital. O analógico é um multímetro antigo, mas tão eficaz quanto o novo! Ele mostra uma medição feita por um ponteiro conectado a uma bobina móvel em um campo magnético por meio de um ímã permanente.</p>[m
+[32m+[m[32m        <img style="margin-top: 40px" src="/assets/multimetro2.png" alt=""></div>[m
+[32m+[m[41m        [m
+[32m+[m[32m        <div class="item item-4"><h1 style="margin-top: 5px">Como usar um multímetro?</h1>[m
+[32m+[m[32m        <p>Existem duas formas de se colocar os plugs do multímetro, uma quando o multímetro possuir três plugs onde o usuário irá conectar os dois conectores um ao pino indicado para medir tensão e corrente das pontas de prova e um plug irá definir se a corrente é continua ou alternada, a outra quando o multímetro possuir quatro plugs, nesse caso irá existir três plugs vermelhos e um preto, dos plugs vermelhos dois estão destinados a medição de corrente (uma alta e outra baixa), e o terceiro destinado a medição de resistência e tensão. O plug preto é utilizado independente de qual grandeza irá ser medida. Ao ligar o multímetro é utilizado seu ponteiro para escolher um número maior do que o que se deseja medir.</p>[m
+[32m+[m[32m</div>[m
+[32m+[m[41m        [m
+[32m+[m[32m    </div>[m
+[32m+[m[41m    [m
+[32m+[m[41m    [m
+[32m+[m[32m</body>[m
+[32m+[m[32m</html>[m
+\ No newline at end of file[m
+[1mdiff --git a/ohmimetro.html b/ohmimetro.html[m
+[1mnew file mode 100644[m
+[1mindex 0000000..f0b8f8f[m
+[1m--- /dev/null[m
+[1m+++ b/ohmimetro.html[m
+[36m@@ -0,0 +1,33 @@[m
+[32m+[m[32m<!DOCTYPE html>[m
+[32m+[m[32m<html lang="pt-br">[m
+[32m+[m[32m<head>[m
+[32m+[m[32m    <link rel="stylesheet" href="stylegeral.css">[m
+[32m+[m[32m    <meta charset="UTF-8">[m
+[32m+[m[32m    <meta http-equiv="X-UA-Compatible" content="IE=edge">[m
+[32m+[m[32m    <meta name="viewport" content="width=device-width, initial-scale=1.0">[m
+[32m+[m[32m    <title>ohmimetro[m
+[32m+[m[32m    </title>[m
+[32m+[m[32m</head>[m
+[32m+[m[32m<body>[m
+[32m+[m[32m   <div class="grid">[m
+[32m+[m[32m       <div class="item item-1"><img style="margin-top: 40px" src="/assets/ohmimetro.png" alt="">[m
+[32m+[m[32m       <h1 style="margin-top: 5px">O que é um ohmímetro? </h1>[m
+[32m+[m[32m       <p>Um ohmímetro é um instrumento de medição usado para determinar a resistência de um circuito ou componente. Junto com o voltímetro, o amperímetro, o capacímetro e o medidor de frequência, ele faz parte de um dispositivo de medição denominado multímetro ou instrumento multifuncional. </p></div>[m
+[32m+[m[41m        [m
+[32m+[m[32m       <div class="item item-2"> <h1>O que um ohmímetro faz?</h1>[m
+[32m+[m[32m        <p>O ohmímetro pode medir o valor de um resistor, a condutividade de um fio, circuito ou fusível, provar o filamento de uma válvula eletrônica, a situação de um capacitor ou indutor, verificar as condições das junções de semicondutores como diodos, transistores, SCR, etc.</p></div>[m
+[32m+[m[41m      [m
+[32m+[m[41m       [m
+[32m+[m[32m        <div class="item item-3"><h1>Tipos de ohmímetro </h1>[m
+[32m+[m[32m        <p>É de três tipos; eles são o ohmímetro série, ohmímetro de derivação e ohmímetro multi-range.</p>[m
+[32m+[m[32m        <img style="margin-top: 40px" src="/assets/ohmimetro2.png" alt=""></div>[m
+[32m+[m[41m        [m
+[32m+[m[32m        <div class="item item-4"><h1 style="margin-top: 5px">Como se usa um ohmímetro?</h1>[m
+[32m+[m[32m        <p> Na hora de utilizar um ohmímetro certifique-se de o material que irá medir está desligado para garantir segurança e uma melhor precisão do medidor. Primeiro se liga o ohmímetro e conecta-se os terminais de saída do medidor, em seguida conecte um terminal em uma extremidade do material e o outro terminal na outra extremidade, verifique a leitura no painel do medidor.</p>[m
+[32m+[m[32m</div>[m
+[32m+[m[41m        [m
+[32m+[m[32m    </div>[m
+[32m+[m[41m    [m
+[32m+[m[41m    [m
+[32m+[m[32m</body>[m
+[32m+[m[32m</html>[m
+\ No newline at end of file[m
+[1mdiff --git a/osciloscopio.html b/osciloscopio.html[m
+[1mnew file mode 100644[m
+[1mindex 0000000..07ddc2f[m
+[1m--- /dev/null[m
+[1m+++ b/osciloscopio.html[m
+[36m@@ -0,0 +1,32 @@[m
+[32m+[m[32m<!DOCTYPE html>[m
+[32m+[m[32m<html lang="pt-br">[m
+[32m+[m[32m<head>[m
+[32m+[m[32m    <link rel="stylesheet" href="stylegeral.css">[m
+[32m+[m[32m    <meta charset="UTF-8">[m
+[32m+[m[32m    <meta http-equiv="X-UA-Compatible" content="IE=edge">[m
+[32m+[m[32m    <meta name="viewport" content="width=device-width, initial-scale=1.0">[m
+[32m+[m[32m    <title>osciloscopio</title>[m
+[32m+[m[32m</head>[m
+[32m+[m[32m<body>[m
+[32m+[m[32m   <div class="grid">[m
+[32m+[m[32m       <div class="item item-1"><img style="margin-top: 40px" src="/assets/osciloscopio.png" alt="">[m
+[32m+[m[32m       <h1 style="margin-top: 5px">O que é um osciloscópio?</h1>[m
+[32m+[m[32m       <p>O osciloscópio é um medidor de sinais elétricos que permite visualizar os sinais em forma de onda além de analisar certos parâmetros deste sinal, como frequência, amplitude, tensão média, tensão efetiva, tensão pico a pico e muitos outros parâmetros.</p></div>[m
+[32m+[m[41m        [m
+[32m+[m[32m       <div class="item item-2"> <h1>O que um osciloscópio faz?</h1>[m
+[32m+[m[32m        <p>De forma simples, o osciloscópio desenha uma linha horizontal da esquerda ora direita controlando a velocidade que se forma a linha e o seu tamanho.</p></div>[m
+[32m+[m[41m      [m
+[32m+[m[41m       [m
+[32m+[m[32m        <div class="item item-3"><h1>Tipos de osciloscópio </h1>[m
+[32m+[m[32m        <p>Existem vários tipos de osciloscópios sejam eles analógicos ou digitais. Os analógicos são mais utilizados como solução para problemas maiores pois os do tipo digital tendem a perder alguns sinais transitórios que podem causar comportamento errático.</p>[m
+[32m+[m[32m        <img style="margin-top: 40px" src="/assets/osciloscopio2.png" alt=""></div>[m
+[32m+[m[41m        [m
+[32m+[m[32m        <div class="item item-4"><h1 style="margin-top: 5px">Como se usa um osciloscópio?</h1>[m
+[32m+[m[32m        <p>Os osciloscópios são devem ser ligados com cuidado nos circuitos em questão pois se as tensões forem muito altas podem ocorrer problemas de sobrecarga. </p>[m
+[32m+[m[32m</div>[m
+[32m+[m[41m        [m
+[32m+[m[32m    </div>[m
+[32m+[m[41m    [m
+[32m+[m[41m    [m
+[32m+[m[32m</body>[m
+[32m+[m[32m</html>[m
+\ No newline at end of file[m
+[1mdiff --git a/style.css b/style.css[m
+[1mnew file mode 100644[m
+[1mindex 0000000..245e3ef[m
+[1m--- /dev/null[m
+[1m+++ b/style.css[m
+[36m@@ -0,0 +1,38 @@[m
+[32m+[m[32mbody{[m
+[32m+[m[32m    background-color: #2c3e50;[m
+[32m+[m[32m}[m
+[32m+[m
+[32m+[m[32m.grid{[m
+[32m+[m[32m    padding: 10px;[m
+[32m+[m[32m    display: grid;[m
+[32m+[m[32m    grid-template-columns: 1fr 1fr;[m
+[32m+[m[32m    background-color: #2c3e50;[m
+[32m+[m[32m    grid-gap: 10px;[m
+[32m+[m[32m}[m
+[32m+[m
+[32m+[m[32m.item{[m
+[32m+[m[32m    text-shadow: 10px;[m
+[32m+[m[32m    border-radius: 10px;[m
+[32m+[m[32m    text-align: center;[m
+[32m+[m[32m    background-color:#95a5a6;[m
+[32m+[m[32m}[m
+[32m+[m[32mimg{[m
+[32m+[m[32m    touch-action: none;[m
+[32m+[m[32m    padding: 0;[m
+[32m+[m[32m    padding-top: 10px;[m
+[32m+[m[32m    border: 0;[m
+[32m+[m[32m    width: 7rem;[m
+[32m+[m[32m}[m
+[32m+[m[32ma{[m
+[32m+[m[32m    border: 0px;[m
+[32m+[m[32m    padding: 0;[m
+[32m+[m[32m    color: inherit;[m
+[32m+[m[32m    text-decoration: none;[m
+[32m+[m[32m}[m
+[32m+[m[32mh3{[m
+[32m+[m[32m    margin: 5px;[m
+[32m+[m[32m    font-style: bolder;[m
+[32m+[m[32m    font-size: 18px;[m
+[32m+[m[32m    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;[m
+[32m+[m[32m    color:#34495e;[m
+[32m+[m[32m}[m
+\ No newline at end of file[m
+[1mdiff --git a/stylegeral.css b/stylegeral.css[m
+[1mnew file mode 100644[m
+[1mindex 0000000..797dec6[m
+[1m--- /dev/null[m
+[1m+++ b/stylegeral.css[m
+[36m@@ -0,0 +1,43 @@[m
+[32m+[m[32m@font-face{[m
+[32m+[m[32m    font-family: PoppinsMedium;[m
+[32m+[m[32m    src: url('/Fonts/Poppins-Medium.ttf');[m
+[32m+[m[32m}[m
+[32m+[m[32m@font-face{[m
+[32m+[m[32m    font-family: PoppinsRegular;[m
+[32m+[m[32m    src: url('/Fonts/Poppins-Regular.ttf');[m
+[32m+[m[32m}[m
+[32m+[m
+[32m+[m
+[32m+[m[32mbody{[m
+[32m+[m[32m    margin: 0;[m
+[32m+[m[32m    border: 0;[m
+[32m+[m[32m    padding: 0;[m
+[32m+[m[32m}[m
+[32m+[m
+[32m+[m
+[32m+[m[32m.grid{[m
+[32m+[m[32m    display: grid;[m
+[32m+[m[32m    text-align: center;[m
+[32m+[m
+[32m+[m[32m}[m
+[32m+[m[32m.item{[m
+[32m+[m[32m    background-color: #ecf0f1;[m
+[32m+[m[32m}[m
+[32m+[m[32mimg{[m
+[32m+[m[32m    margin: 0px;[m
+[32m+[m[32m    width: 200px;[m
+[32m+[m[32m}[m
+[32m+[m[32mh1{[m
+[32m+[m[32m    margin: 0;[m
+[32m+[m[32m    margin-top: 60px;[m
+[32m+[m[32m    padding-left: 10px;[m
+[32m+[m[32m    text-align: left;[m
+[32m+[m[32m    font-family: PoppinsMedium;[m
+[32m+[m[32m}[m
+[32m+[m[32mp{[m[41m  [m
+[32m+[m[32m    background-color: #bdc3c7;[m
+[32m+[m[32m    margin: 0;[m
+[32m+[m[32m    padding: 10px;[m
+[32m+[m[32m    font-family: PoppinsRegular;[m
+[32m+[m[32m    text-align: left;[m
+[32m+[m[32m}[m
+\ No newline at end of file[m
+[1mdiff --git a/terrometro.html b/terrometro.html[m
+[1mnew file mode 100644[m
+[1mindex 0000000..45ad7c3[m
+[1m--- /dev/null[m
+[1m+++ b/terrometro.html[m
+[36m@@ -0,0 +1,30 @@[m
+[32m+[m[32m<!DOCTYPE html>[m
+[32m+[m[32m<html lang="pt-br">[m
+[32m+[m[32m<head>[m
+[32m+[m[32m    <link rel="stylesheet" href="stylegeral.css">[m
+[32m+[m[32m    <meta charset="UTF-8">[m
+[32m+[m[32m    <meta http-equiv="X-UA-Compatible" content="IE=edge">[m
+[32m+[m[32m    <meta name="viewport" content="width=device-width, initial-scale=1.0">[m
+[32m+[m[32m    <title>terrometro</title>[m
+[32m+[m[32m</head>[m
+[32m+[m[32m<body>[m
+[32m+[m[32m   <div class="grid">[m
+[32m+[m[32m       <div class="item item-1"><img style="margin-top: 40px" src="/assets/terrometro.png" alt="">[m
+[32m+[m[32m       <h1 style="margin-top: 5px">O que é um terrômetro?</h1>[m
+[32m+[m[32m       <p>O terrômetro é um dispositivo utilizado por engenheiros que tem a capacidade de medir a resistência do solo em receber descargas elétricas. Ou seja, mede a eficiência do aterramento através de sensores.</p></div>[m
+[32m+[m[41m        [m
+[32m+[m[32m       <div class="item item-2"> <h1> O que um terrômetro faz?</h1>[m
+[32m+[m[32m        <p>O terrômetro tem a função de medir resistência do solo. Um exemplo disto é sua utilização para medir sistema de para-raios. O terrômetro é muito utilizado na medição de resistência de indústrias, edifícios e residências. Ele é um aparelho sensível, pois trabalha com medidas precisas e é necessário manuseá-lo com cuidado.</p></div>[m
+[32m+[m[41m      [m
+[32m+[m[41m       [m
+[32m+[m[32m        <div class="item item-3"><h1>Tipos de terrômetro </h1>[m
+[32m+[m[32m        <p>Existem dois tipos de terrômetro: o terrômetro digital e alicate. O tipo alicate permite ao usuário medir a resistência de terra de uma haste de aterramento sem o uso de hastes auxiliares, além de permitir a leitura da resistência de aterramento em sistemas com várias hastes sem desconectar o aterramento em teste. O tipo digital é o instrumento adequado para a medição rápida, segura e confiável da resistência de aterramento de cada torre de uma linha de transmissão em funcionamento, sem a necessidade de desconectar o cabo guarda.</p>[m
+[32m+[m[32m        <img style="margin-top: 40px" src="/assets/terrometro2.png" alt=""></div>[m
+[32m+[m[41m        [m
+[32m+[m[41m    [m
+[32m+[m[41m        [m
+[32m+[m[32m    </div>[m
+[32m+[m[41m    [m
+[32m+[m[41m    [m
+[32m+[m[32m</body>[m
+[32m+[m[32m</html>[m
+\ No newline at end of file[m
+[1mdiff --git a/voltimetro.html b/voltimetro.html[m
+[1mnew file mode 100644[m
+[1mindex 0000000..3a831e9[m
+[1m--- /dev/null[m
+[1m+++ b/voltimetro.html[m
+[36m@@ -0,0 +1,33 @@[m
+[32m+[m[32m<!DOCTYPE html>[m
+[32m+[m[32m<html lang="pt-br">[m
+[32m+[m[32m<head>[m
+[32m+[m[32m    <link rel="stylesheet" href="stylegeral.css">[m
+[32m+[m[32m    <meta charset="UTF-8">[m
+[32m+[m[32m    <meta http-equiv="X-UA-Compatible" content="IE=edge">[m
+[32m+[m[32m    <meta name="viewport" content="width=device-width, initial-scale=1.0">[m
+[32m+[m[32m    <title>voltimetro[m
+[32m+[m[32m    </title>[m
+[32m+[m[32m</head>[m
+[32m+[m[32m<body>[m
+[32m+[m[32m   <div class="grid">[m
+[32m+[m[32m       <div class="item item-1"><img style="margin-top: 40px" src="/assets/voltimetro.png" alt="">[m
+[32m+[m[32m       <h1 style="margin-top: 5px">O que é um voltímetro?</h1>[m
+[32m+[m[32m       <p>Um voltímetro é um dispositivo usado para medir a diferença de potencial entre dois pontos em um circuito. Ele pode ser dividido em duas categorias, digital e analógico. Essas categorias referem-se ao método de medição, o digital é processando o ddp entre dois pinos e o analógico é a forma mecânica de mover o ponteiro usando o ddp.</p></div>[m
+[32m+[m[41m        [m
+[32m+[m[32m       <div class="item item-2"> <h1>O que um voltímetro faz?</h1>[m
+[32m+[m[32m        <p>É um dispositivo utilizado para medir a diferença de potencial entre dois pontos, portanto, deve estar sempre conectado em paralelo com a parte do circuito de onde será obtida a tensão.</p></div>[m
+[32m+[m[41m      [m
+[32m+[m[41m       [m
+[32m+[m[32m        <div class="item item-3"><h1>Tipos de voltímetro</h1>[m
+[32m+[m[32m        <p>Ele pode ser dividido em duas categorias, digital e analógico. O digital processa o ddp entre dois pinos e o analógico usa o ddp para mover o ponteiro de forma mecânica.</p>[m
+[32m+[m[32m        <img style="margin-top: 40px" src="/assets/voltimetro2.png" alt=""></div>[m
+[32m+[m[41m        [m
+[32m+[m[32m        <div class="item item-4"><h1 style="margin-top: 5px">Como usar um voltímetro?</h1>[m
+[32m+[m[32m        <p>Ambos os voltímetros digital e analógico são utilizados da mesma forma, se conecta as pontas de prova em volta do circuito que irá ser medido. </p>[m
+[32m+[m[32m</div>[m
+[32m+[m[41m        [m
+[32m+[m[32m    </div>[m
+[32m+[m[41m    [m
+[32m+[m[41m    [m
+[32m+[m[32m</body>[m
+[32m+[m[32m</html>[m
+\ No newline at end of file[m
+[1mdiff --git a/wattimetro.html b/wattimetro.html[m
+[1mnew file mode 100644[m
+[1mindex 0000000..79927fa[m
+[1m--- /dev/null[m
+[1m+++ b/wattimetro.html[m
+[36m@@ -0,0 +1,33 @@[m
+[32m+[m[32m<!DOCTYPE html>[m
+[32m+[m[32m<html lang="pt-br">[m
+[32m+[m[32m<head>[m
+[32m+[m[32m    <link rel="stylesheet" href="stylegeral.css">[m
+[32m+[m[32m    <meta charset="UTF-8">[m
+[32m+[m[32m    <meta http-equiv="X-UA-Compatible" content="IE=edge">[m
+[32m+[m[32m    <meta name="viewport" content="width=device-width, initial-scale=1.0">[m
+[32m+[m[32m    <title>wattimetro</title>[m
+[32m+[m[32m</head>[m
+[32m+[m[32m<body>[m
+[32m+[m[32m   <div class="grid">[m
+[32m+[m[32m       <div class="item item-1"><img style="margin-top: 40px" src="/assets/wattmetro.png" alt="">[m
+[32m+[m[32m       <h1 style="margin-top: 5px">O que é um wattímetro?</h1>[m
+[32m+[m[32m       <p>Um medidor de potência (wattímetro) é um dispositivo que permite medir a potência em um circuito elétrico. Watt, é uma unidade de medida igual a um joule por segundo, usada para medir a potência.</p></div>[m
+[32m+[m[41m        [m
+[32m+[m[32m       <div class="item item-2"> <h1>O que o wattímetro faz?</h1>[m
+[32m+[m[32m        <p>Esse aparelho mede ao mesmo tempo os valores de tensão e valores de corrente e em seguida multiplica esses valores para que se tenha, então, a potência em watts.</p></div>[m
+[32m+[m[41m      [m
+[32m+[m[41m       [m
+[32m+[m[32m        <div class="item item-3"><h1>Como se utiliza o wattímetro?</h1>[m
+[32m+[m[32m        <p>O wattímetro e utilizado da mesma forma de um amperímetro onde o circuito deve estar desliga para a medição da potência passando no condutor onde a área a ser medida deve possuir a menor resistência possível.</p>[m
+[32m+[m[32m        <img style="margin-top: 40px" src="/assets/watimetro2.png" alt=""></div>[m
+[32m+[m[41m        [m
+[32m+[m[32m        <div class="item item-4"><h1 style="margin-top: 5px">Tipos de wattímetro</h1>[m
+[32m+[m[32m        <p>- Wattímetro Eletrodinâmico, Wattímetro Eletrônico, Wattímetro Digital.[m
+[32m+[m[32m            </p>[m
+[32m+[m[32m</div>[m
+[32m+[m[41m        [m
+[32m+[m[32m    </div>[m
+[32m+[m[41m    [m
+[32m+[m[41m    [m
+[32m+[m[32m</body>[m
+[32m+[m[32m</html>[m
+\ No newline at end of file[m
